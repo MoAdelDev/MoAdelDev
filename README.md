@@ -1,5 +1,5 @@
 # Hi 👋, I'm Mohammed Adel
-## Mobile Software Engineer at Weevo
+## Mobile Software Engineer
 
 ## Glad to see you
 As a skilled software engineer, I specialize in Flutter and Android Native development and also have experience
