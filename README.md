@@ -1,6 +1,12 @@
 # Hi 👋, I'm Mohammed Adel
 ## Mobile Software Engineer at Weevo
 
+## Glad to see you
+As a skilled software engineer, I specialize in Flutter and Android Native development and also have experience
+with ReactJS and React Native. I am good at building mobile apps that are useful and easy to scale, which improve
+both business operations and the experience for users. I know how to use Dart and Agile methods well, and I focus
+on writing clean, high-quality code that's easy to maintain. I love to keep learning and enjoy working with others.
+My skills and passion make me well-suited to help advance technology and develop mobile applications.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mohamad.abdelaziz.180072/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammedadel10/) 
