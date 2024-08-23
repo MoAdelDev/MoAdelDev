@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Weevo
+## Mobile Software Engineer at Weevo
 
 
 ## 🌐 Socials:
